@@ -1,4 +1,6 @@
 # header
 I wrote my first header
-# header 2
-it useses a hashtag
+# ADD PICTURE
+Adding a picture like this, [] for description which shows when the picture cant be loaded
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
