@@ -8,3 +8,7 @@ Adding a picture like this, [] for description which shows when the picture cant
 ```javascript
 Var myVar = "Hello Git"; // The grey box is created with ```Code Block ```
 ```
+
+- [x] Create this List
+- [x] This item is complete
+- [ ] This item is not complete
